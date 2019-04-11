@@ -1,0 +1,41 @@
+ *{
+	margin: 0;
+	padding: 0;	
+}
+body{
+	font-size: 12px;
+	font-family: '微软雅黑';
+	background-color: #fff;
+}
+a,a:visited{
+	color: #333;
+	text-decoration: none;
+}
+a,a:hover{
+	color: red;
+	text-decoration: none;
+}
+.container{
+	width: 1211px;
+	margin: 0 auto;
+}
+.lf{
+	float: left;
+}
+.rf{
+	float: right;
+}
+.clearfloat{
+	content: '';
+	display: block;
+	clear: both;
+}
+li{
+	list-style: none;
+}
+i{
+	background-image: url(../images/iconlist_2.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	vertical-align: middle;
+}
