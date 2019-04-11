@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+
+	<!-- header -->
+	<div class="header">
+		<div class="container">
+			<div class="container_lf lf">
+				<i></i>
+				<a href="">收藏京东</a>
+			</div>
+			<div class="container_rf rf">
+				<li>
+					<a href="">您好，欢迎来到京东！[登录] [注册]</a>
+				</li>
+				<li>
+					<a href="">我的订单</a>
+				</li>
+				<li>
+					<a href=""><img src="images/vip.jpg">会员俱乐部</a> 
+				</li>
+				<li>
+					<a href=""><img src="images/dakehu.jpg">企业频道</a>
+				</li>
+				<li>
+					<a href=""><i></i>手机京东</a>
+				</li>
+				<li>
+					<a href="">客户服务<i></i></a>
+				</li>
+				<li>
+					<a href="">网址导航</a>
+				</li>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- search -->
+	<div class="search container clearfloat">
+		<div class="search_block1 lf">
+			<img src="images/logo-201305.png">
+		</div>
+		<div class="search_block2 lf">
+			<div class="search_block2_top">
+				<input type="text" placeholder="  iphone 8">
+				<input type="button" value="搜索">
+			</div>
+			<div class="search_block2_bottom">
+				<p>热门搜索：
+					<a href="">家纺11月大促</a>
+					<a href="">彩虹电热毯</a>
+					<a href="">博洋家纺</a>
+					<a href="">霞珍</a>
+					<a href="">床垫床褥</a>
+					<a href="">九州鹿被子</a>
+					<a href="">南极人家纺</a>
+				</p>
+			</div>
+		</div>
+		<div class="search_block3 lf">
+			<a href=""><li class="search_block3_li lf"><i></i>我的京东<div></div></li></a>   
+			<a href=""><div class="search_block3_li lf"><i></i>去购物车结算<i></i></div></a>
+		</div>
+	</div>
+
+
+	<!-- nav -->
+	<div class="nav container clearfloat">
+		<div class="nav_top lf">
+			<li>全部商品</li>
+			<li>首页</li>
+			<li>服装城</li>
+			<li>食品</li>
+			<li>团购</li>
+			<li>夺宝岛</li>
+			<li>闪购</li>
+			<li>金融</li>
+		</div>
+		<div class="nav_lf lf">
+			<li>
+				<a href="">图书</a>
+				<a href="">音像</a>
+				<a href="">数字产品</a>
+				<a href="">家用电器</a>
+			</li>
+			<li>
+				<a href="">图书</a>
+				<a href="">音像</a>
+				<a href="">数字产品</a>
+				<a href="">家用电器</a>
+			</li>
+			<li>
+				<a href="">图书</a>
+				<a href="">音像</a>
+				<a href="">数字产品</a>
+				<a href="">家用电器</a>
+			</li>
+			<li>
+				<a href="">图书</a>
+				<a href="">音像</a>
+				<a href="">数字产品</a>
+				<a href="">家用电器</a>
+			</li>
+			<li>
+				<a href="">图书</a>
+				<a href="">音像</a>
+				<a href="">数字产品</a>
+				<a href="">家用电器</a>
+			</li>
+			<li>
+				<a href="">图书</a>
+				<a href="">音像</a>
+				<a href="">数字产品</a>
+				<a href="">家用电器</a>
+			</li>
+		</div>
+		<div class="nav_mid lf">
+			<div class="nav_mid_top"><img src="picture/banner_06.jpg"></div>
+			<div class="nav_mid_bottom">
+				<li class="nav_mid_bottom_1 lf"><i></i><img src="picture/02.png"></li>
+				<li class="nav_mid_bottom_2 lf"><img src="picture/01.png"></li>
+				<li class="nav_mid_bottom_3 lf"><img src="picture/03.png"><i></i></li>
+			</div>
+		</div>
+		<div class="nav_rf lf">
+			<div class="nav_rf_top">
+				<img src="picture/ad_focus.jpg">
+				<li>京东快报<a href="">更多快报></a></li>
+			</div>
+			<div class="nav_rf_mid">
+				<li class="nav_rf_mid_lf lf">
+						<a href="">松鼠好年货2折开抢！</a><br>
+						<a href="">名酒春晚 茅台888</a><br>
+						<a href="">四国鲜花定制款低至5折</a><br>
+						<a href="">家居年货大采购 低至9.9</a>
+					</li>
+					<li class="nav_rf_mid_rf lf">
+						<a href="">松鼠好年货2折开抢！</a><br>
+						<a href="">名酒春晚 茅台888</a><br>
+						<a href="">四国鲜花定制款低至5折</a><br>
+						<a href="">家居年货大采购 低至9.9</a>
+					</li>
+			</div>
+			<div class="nav_rf_bottom">
+				<li class="nav_rf_bottom_1	lf"><i></i><a href="">话费</a></li>
+				<li class="nav_rf_bottom_2	lf"><i></i><a href="">机票</a></li>
+				<li class="nav_rf_bottom_3	lf"><i></i><a href="">彩票</a></li>
+				<li class="nav_rf_bottom_4	lf"><i></i><a href="">游戏</a></li>
+				<li class="nav_rf_bottom_5	lf"><i></i><a href="">旅游</a></li>
+				<li class="nav_rf_bottom_6	lf"><i></i><a href="">电影票</a></li>
+				<li class="nav_rf_bottom_7	lf"><i></i><a href="">理财</a></li>
+				<li class="nav_rf_bottom_8	lf"><i></i><a href="">水电气</a></li>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- content -->
+	<div class="content container clearfloat">
+		<div class="content_top">
+			<li>生活的橱窗</li>
+			<li>每一天展示精彩</li>
+		</div>
+		<div class="content_bottom">
+			<li><img src="picture/show_01.jpg">
+				<div class="photo_1">
+					<div class="title_1">品牌街</div>
+					<div class="title_2">三星note</div>
+					<div class="title_3">购500京东E卡</div>
+				</div>
+			</li>
+			<li><img src="picture/show_02.jpg"></li>
+			<li><img src="picture/show_03.jpg"></li>
+			<li><img src="picture/show_04.png"></li>
+			<li><img src="picture/show_05.jpg"></li>
+			<li><img src="picture/show_06.jpg"></li>
+			<li><img src="picture/show_07.jpg"></li>
+			<li><img src="picture/show_08.jpg"></li>
+		</div>
+	</div>
+
+
+	<!-- main_content -->
+	<div class="main_content container">
+
+	<!-- 1L -->
+		<div class="main_content_1">
+			<div class="main_content_1_top">
+				<li class="main_content_1_top_lf lf"><i>1F</i></li>
+				<li class="main_content_1_top_mid lf">
+					<a href="">家具家饰</a>
+					<a href="">特价商品</a>
+					<a href="">大家电</a>
+					<a href="">小家电</a>
+					<a href="">床上通信</a>
+					<a href="">家具五金</a>
+				</li>
+				<li class="main_content_1_top_rf rf">
+					<a href="">大家电配送>></a>
+					<a href="">合约计划说明>></a>
+				</li>
+			</div>
+			<div class="main_content_1_bottom clearfloat">
+				<div class="main_content_1_bottom_lf lf">
+					<li>
+						<a href="">沙发</a><br>	
+						<a href="">床单</a><br>	
+						<a href="">床单补贴</a><br>	
+						<a href="">生活电器</a><br>	
+						<a href="">厨房电器</a><br>	
+						<a href="">个护健康</a><br>	
+						<a href="">五金家装</a><br>	
+						<a href="">冰柜/冰吧</a>
+					</li>
+					<li>
+						<a href="">空调</a><br>						
+						<a href="">平板电视</a><br>						
+						<a href="">冰箱</a><br>						
+						<a href="">洗衣机</a><br>						
+						<a href="">热水器</a><br>			
+						<a href="">烟机/烟社</a><br>
+						<a href="">家庭影院</a><br>
+						<a href="">生活用品</a>
+					</li>
+					<div><img src="picture/fl_011.jpg"></div>
+				</div>
+				<div class="main_content_1_bottom_mid lf">
+					<li><img src="picture/1l_01.jpg"><a href="">白鹤亮翅</a><br><a href="">沙发地毯套装</a><br><a href="" style="color: red;">限时折扣：998</a></li>
+					<li><img src="picture/1l_02.jpg"></li>
+					<li><img src="picture/1l_03.jpg"><a href="">驾鹤西去</a><br><a href="">沙发墙画套装</a><br><a href="" style="color: red;">限时折扣：3998</a></li>
+					<li><img src="picture/1l_04.jpg"><a href="">天伦之乐</a><br><a href="">沙发茶几套装</a><br><a href="" style="color: red;">限时折扣：2998</a></li>
+					<li><img src="picture/1l_05.jpg"><a href="">蓝色海洋</a><br><a href="">地毯桌椅套装</a><br><a href="" style="color: red;">限时折扣：2198</a></li>
+					<li><img src="picture/1l_06.jpg"><a href="">大理石</a><br><a href="">大理石套装</a><br><a href="" style="color: red;">限时折扣：4238</a></li>
+					<li><img src="picture/1l_07.jpg"><a href="">电眼逼人</a><br><a href="">彩色电视套装</a><br><a href="" style="color: red;">限时折扣：9328</a></li>
+					<li><img src="picture/1l_08.jpg"><a href="">三画成虎</a><br><a href="">三幅画套装</a><br><a href="" style="color: red;">限时折扣：1998</a></li>
+				</div>
+				<div class="main_content_1_bottom_rf lf">
+					<li>
+						<img src="picture/logo_01.jpg">
+						<img src="picture/logo_02.jpg">
+						<img src="picture/logo_03.jpg">
+						<img src="picture/logo_04.jpg">
+						<img src="picture/logo_05.jpg">
+						<img src="picture/logo_06.jpg">
+						<img src="picture/logo_07.jpg">
+						<img src="picture/logo_08.jpg">
+						<img src="picture/logo_09.jpg">
+						<img src="picture/logo_09.jpg">
+					</li>
+					<li>
+						<img src="picture/fl_ad_02.jpg">
+					</li>
+				</div>
+			</div>
+		</div>
+
+
+		<!-- 2L -->
+		<div class="main_content_2">
+			<div class="main_content_2_top">
+				<li class="main_content_2_top_lf lf"><i>2F</i></li>
+				<li class="main_content_2_top_mid lf">
+					<a href="">所有商品</a>
+					<a href="">手机/配件</a>
+					<a href="">游戏设备</a>
+					<a href="">电脑主机</a>
+					<a href="">相机摄像</a>
+					<a href="">影音/智能</a>
+				</li>
+				<li class="main_content_2_top_rf rf">
+					<a href="">手机配送>></a>
+					<a href="">合约计划说明>></a>
+				</li>
+			</div>
+			<div class="main_content_2_bottom clearfloat">
+				<div class="main_content_2_bottom_lf lf">
+					<li>
+						<a href="">手机</a><br>	
+						<a href="">手机配件</a><br>	
+						<a href="">话费补贴</a><br>	
+						<a href="">游戏鼠标</a><br>	
+						<a href="">机械键盘</a><br>	
+						<a href="">索尼PS4</a><br>	
+						<a href="">VR眼镜</a><br>	
+						<a href="">XBOX</a>
+					</li>
+					<li>
+						<a href="">耳机</a><br>						
+						<a href="">平板电视</a><br>						
+						<a href="">Hifi音响</a><br>						
+						<a href="">音乐播放器</a><br>						
+						<a href="">蓝牙耳机</a><br>			
+						<a href="">智能手表</a><br>
+						<a href="">智能水杯</a><br>
+						<a href="">智能手环</a>
+					</li>
+					<div><img src="picture/fl_01.jpg"></div>
+				</div>
+				<div class="main_content_2_bottom_mid lf">
+					<li><img src="picture/2l_01.jpg"><a href="">手机壳</a><br><a href="">情侣手机壳</a><br><a href="" style="color: red;">限时折扣：346</a></li>
+					<li><img src="picture/2l_02.jpg"></li>
+					<li><img src="picture/2l_03.jpg"><a href="">充电宝</a><br><a href="">小型充电宝</a><br><a href="" style="color: red;">限时折扣：435</a></li>
+					<li><img src="picture/2l_04.jpg"><a href="">oppo耳机</a><br><a href="">oppo专用耳机</a><br><a href="" style="color: red;">限时折扣：234</a></li>
+					<li><img src="picture/2l_05.jpg"><a href="">华为耳机</a><br><a href="">华为专用耳机</a><br><a href="" style="color: red;">限时折扣：235</a></li>
+					<li><img src="picture/2l_06.jpg"><a href="">路由器</a><br><a href="">小黑盒路由器</a><br><a href="" style="color: red;">限时折扣：532</a></li>
+					<li><img src="picture/2l_07.jpg"><a href="">投影仪</a><br><a href="">学校专用投影仪</a><br><a href="" style="color: red;">限时折扣：2534</a></li>
+					<li><img src="picture/2l_08.jpg"><a href="">MP3</a><br><a href="">走到哪听到哪</a><br><a href="" style="color: red;">限时折扣：212</a></li>
+				</div>
+				<div class="main_content_2_bottom_rf lf">
+					<li>
+						<img src="picture/logo_01.jpg">
+						<img src="picture/logo_02.jpg">
+						<img src="picture/logo_03.jpg">
+						<img src="picture/logo_04.jpg">
+						<img src="picture/logo_05.jpg">
+						<img src="picture/logo_06.jpg">
+						<img src="picture/logo_07.jpg">
+						<img src="picture/logo_08.jpg">
+						<img src="picture/logo_09.jpg">
+						<img src="picture/logo_09.jpg">
+					</li>
+					<li>
+						<img src="picture/fl_ad_02.jpg">
+					</li>
+				</div>
+			</div>
+		</div>
+
+		<!-- 3L -->
+		<div  class="main_content_3">
+			<div class="main_content_3_top">
+				<li class="main_content_3_top_lf lf"><i>3F</i></li>
+				<li class="main_content_3_top_mid lf">
+					<a href="">全部商品</a>
+					<a href="">秋冬外套</a>
+					<a href="">针织毛衣</a>
+					<a href="">衬衫T恤</a>
+					<a href="">羽绒棉衣</a>
+					<a href="">更多上衣</a>
+				</li>
+				<li class="main_content_3_top_rf rf">
+					<a href="">衣服物流>></a>
+					<a href="">合约计划说明>></a>
+				</li>
+			</div>
+			<div class="main_content_3_bottom clearfloat">
+				<div class="main_content_3_bottom_lf lf">
+					<li>
+						<a href="">旗袍</a><br>	
+						<a href="">半身裙</a><br>	
+						<a href="">婚纱</a><br>	
+						<a href="">打底裤</a><br>	
+						<a href="">女鞋靴子</a><br>	
+						<a href="">首饰衣帽</a><br>	
+						<a href="">礼服套装</a><br>	
+						<a href="">大码女装</a>
+					</li>
+					<li>
+						<a href="">男鞋</a><br>						
+						<a href="">汉服</a><br>						
+						<a href="">牛仔裤</a><br>						
+						<a href="">马丁靴</a><br>						
+						<a href="">名牌皮带</a><br>			
+						<a href="">商务手表</a><br>
+						<a href="">休闲男鞋</a><br>
+						<a href="">小小电动车</a>
+					</li>
+					<div><img src="picture/fl_0111.jpg"></div>
+				</div>
+				<div class="main_content_3_bottom_mid lf">
+					<li><img src="picture/3l_01.jpg"><a href="">妹子</a><br><a href="">妹子套装</a><br><a href="" style="color: red;">限时折扣：0.324</a></li>
+					<li><img src="picture/3l_02.jpg"></li>
+					<li><img src="picture/3l_03.jpg"><a href="">男鞋</a><br><a href="">潮流男鞋</a><br><a href="" style="color: red;">限时折扣：643</a></li>
+					<li><img src="picture/3l_04.jpg"><a href="">女鞋</a><br><a href="">时尚女鞋</a><br><a href="" style="color: red;">限时折扣：855</a></li>
+					<li><img src="picture/3l_05.jpg"><a href="">裤子</a><br><a href="">不破洞牛仔裤</a><br><a href="" style="color: red;">限时折扣：312</a></li>
+					<li><img src="picture/3l_06.jpg"><a href="">婚纱</a><br><a href="">梦中的婚礼</a><br><a href="" style="color: red;">限时折扣：24562</a></li>
+					<li><img src="picture/3l_07.jpg"><a href="">帽子</a><br><a href="">优雅草帽</a><br><a href="" style="color: red;">限时折扣：231</a></li>
+					<li><img src="picture/3l_08.jpg"><a href="">礼服</a><br><a href="">女士晚礼服</a><br><a href="" style="color: red;">限时折扣：3456</a></li>
+				</div>
+				<div class="main_content_3_bottom_rf lf">
+					<li>
+						<img src="picture/logo_01.jpg">
+						<img src="picture/logo_02.jpg">
+						<img src="picture/logo_03.jpg">
+						<img src="picture/logo_04.jpg">
+						<img src="picture/logo_05.jpg">
+						<img src="picture/logo_06.jpg">
+						<img src="picture/logo_07.jpg">
+						<img src="picture/logo_08.jpg">
+						<img src="picture/logo_09.jpg">
+						<img src="picture/logo_09.jpg">
+					</li>
+					<li>
+						<img src="picture/fl_ad_02.jpg">
+					</li>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- footer -->
+	<div class="footer container clearfloat">
+		<div class="footer_top">
+			<li>
+				<div class="fotter_top_tu lf"><i class="fotter_top_tu_1"></i></div>
+				<div class="fotter_top_zi lf">
+					<a href="">购物指南</a><br>
+					<a href="">购物流程</a><br>
+					<a href="">会员介绍</a><br>
+					<a href="">团购/机票</a><br>
+					<a href="">常见问题</a><br>
+					<a href="">大家电</a><br>
+					<a href="">联系客服</a>
+				</div>
+			</li>
+			<li>
+				<div class="fotter_top_tu lf"><i class="fotter_top_tu_2"></i></div>
+				<div class="fotter_top_zi lf">
+					<a href="">上门自提</a><br>
+					<a href="">211限时达</a><br>
+					<a href="">配送服务查询</a><br>
+					<a href="">配送费收取标准</a><br>
+					<a href="">海外配送</a>
+				</div>
+			</li>
+			<li>
+				<div class="fotter_top_tu lf"><i class="fotter_top_tu_3"></i></div>
+				<div class="fotter_top_zi lf">
+					<a href="">支付方式</a><br>
+					<a href="">货到付款</a><br>
+					<a href="">分期付款</a><br>
+					<a href="">邮局汇款</a><br>
+					<a href="">公司转账</a>
+				</div>
+			</li>
+			<li>
+				<div class="fotter_top_tu lf"><i class="fotter_top_tu_4"></i></div>
+				<div class="fotter_top_zi lf">
+					<a href="">售后服务</a><br>
+					<a href="">价格保护</a><br>
+					<a href="">退款说明</a><br>
+					<a href="">返修/退换货</a><br>
+					<a href="">取消订单</a>
+				</div>
+			</li>
+			<li>
+				<div class="fotter_top_tu lf"><i class="fotter_top_tu_5"></i></div>
+				<div class="fotter_top_zi lf">
+					<a href="">特色服务</a><br>
+					<a href="">DIV装机</a><br>
+					<a href="">延保服务</a><br>
+					<a href="">京东E卡</a><br>
+					<a href="">节能补贴</a><br>
+					<a href="">京东通讯</a>
+			</li>
+		</div>
+		<div class="footer_bottom">
+			<li class="fotter_bottom_1">
+				<a href="">关于我们 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;联系我们 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;人才招聘 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;商家入驻 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;广告服务 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;手机京东 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;友情链接 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;销售联盟 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;关于我们 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;京东社区 &nbsp;|</a>
+				<a href="">&nbsp;&nbsp;京东公益 &nbsp;</a>
+			</li>
+			<li class="fotter_bottom_2">
+				<li class="fotter1"><a href="">北京市公安局朝阳分局备案编号110105014669 |</a><a href="">&nbsp;京ICP证030759号 |</a><a href="">&nbsp;互联网药品信息服务资格证编号(京)-非经营性-2011-0034</a></li>
+				<li class="fotter2"><a href="">音像制品经营许可证苏宿批005号 |</a>	<a href="">出版物经营许可证编号新出发(苏)批字第N-012号 |</a><a href="">互联网出版许可证编号新出网证(京)字150号</a></li>
+				<li class="fotter3"><a href="">网络文化经营许可证京网文[2011]0168-061号 Copyright © 2014-2014 京东JD.com 版权所有</a></li>
+				<li class="fotter4"><a href="">京东旗下网站： English Site 拍拍网 网银在线</a></li>
+			</li>
+			<li class="fotter_bottom_3">
+				<img src="picture/cx.jpg">
+				<img src="picture/cy.jpg">
+				<img src="picture/jy.jpg">
+				<img src="picture/kx.jpg">
+			</li>
+		</div>
+	</div>
+
+</body>
+</html>
